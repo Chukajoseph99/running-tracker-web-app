@@ -2,6 +2,7 @@ html{
     font-family: 'Lora', serif;
     font-size: 10px;
     background: #2d3740;
+    overflow-x: hidden;
 }
 
 body{
@@ -9,7 +10,7 @@ padding: 1rem;
 background: #1c262f;
 color: rgb(230, 225, 225);
 width: 90%;
-margin: 20px auto;
+margin: 40px auto;
 }
 
 .logo{
